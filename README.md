@@ -1,3 +1,8 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+# DEPRECATED
+This repository is now deprecated. This is no longer supported.
+
 ## Custom Cortana Commands Template
 
 This is a simple template for how to register custom commands with Cortana on Windows 10.
